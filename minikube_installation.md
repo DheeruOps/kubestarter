@@ -69,10 +69,10 @@ curl -Lo minikube https://storage.googleapis.com/minikube/releases/latest/miniku
 
 Make it executable and move it into your path:
 
-```bash
+````bash
 chmod +x minikube
 sudo mv minikube /usr/local/bin/
-```
+````
 
 <kbd>![image](https://github.com/paragpallavsingh/kubernetes-kickstarter/assets/40052830/80e8a137-286a-4334-886b-ea4821f596b2)</kbd>
 
